@@ -23,8 +23,8 @@ DATABASE_PASSWORD=RoypgjD0JclLdT3OZOvHLqUEswz1Ns_K
 DATABASE_HOST=peanut.db.elephantsql.com
 DATABASE_PORT=5432
 
-## username and password : mutaz mutaz
-
+## username and password : 
+* username : mutaz,  password :  mutaz
 ## to run the app:
 * pip install Django
 * python manage.py runserver
