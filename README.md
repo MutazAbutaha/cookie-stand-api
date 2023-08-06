@@ -1,8 +1,8 @@
 # Lab: Putting it All Together
 
-# Author: Husam Obeidat
+# Author:  Almutaz Abutaha
 
-# note : Almutaz Abutaha Helped Me
+# note :Husam Obeidat Helped Me
 
 #### How to initialize/run your application
 
