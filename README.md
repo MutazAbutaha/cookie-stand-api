@@ -1,16 +1,36 @@
 # Lab: Putting it All Together
 
-# Author:  Almutaz Abutaha
 
-# note :Husam Obeidat Helped Me
+# Author: Almutaz Abutaha
 
-#### How to initialize/run your application
+# note : Husam Obeidat Helped Me
+
+
+
+
+## This is the env file :
+SECRET_KEY=F37NvfH-vAvNG3g45XxN06-xTvtGTjBsRu6KvAvj9Jc
+
+DEBUG=True
+
+ALLOWED_HOSTS=localhost,127.0.0.1,0.0.0.0
+ALLOW_ALL_ORIGINS=True
+
+DATABASE_ENGINE=django.db.backends.postgresql
+DATABASE_NAME=poomihcg
+DATABASE_USER=poomihcg
+DATABASE_PASSWORD=RoypgjD0JclLdT3OZOvHLqUEswz1Ns_K
+DATABASE_HOST=peanut.db.elephantsql.com
+DATABASE_PORT=5432
+
+## username and password : mutaz mutaz
 
 ## to run the app:
 * pip install Django
 * python manage.py runserver
 * pip freeze > requirements.txt
 * docker-compose up
+
 
 
 
